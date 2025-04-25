@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/karthikeya1151/Placement-classes/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/karthikeya1151/Placement-classes/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/karthikeya1151/Placement-classes/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/karthikeya1151/Placement-classes/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
 ## Database
 |  |
 | ------- |
@@ -155,4 +158,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
