@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/karthikeya1151/Placement-classes/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/karthikeya1151/Placement-classes/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/karthikeya1151/Placement-classes/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/karthikeya1151/Placement-classes/tree/master/0049-group-anagrams) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthikeya1151/Placement-classes/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/karthikeya1151/Placement-classes/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/karthikeya1151/Placement-classes/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/karthikeya1151/Placement-classes/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/karthikeya1151/Placement-classes/tree/master/0032-longest-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/karthikeya1151/Placement-classes/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
