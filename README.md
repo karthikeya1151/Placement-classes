@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/karthikeya1151/Placement-classes/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/karthikeya1151/Placement-classes/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/karthikeya1151/Placement-classes/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karthikeya1151/Placement-classes/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
