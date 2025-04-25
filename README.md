@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/karthikeya1151/Placement-classes/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/karthikeya1151/Placement-classes/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/karthikeya1151/Placement-classes/tree/master/0187-repeated-dna-sequences) |
+| [0433-minimum-genetic-mutation](https://github.com/karthikeya1151/Placement-classes/tree/master/0433-minimum-genetic-mutation) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikeya1151/Placement-classes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/karthikeya1151/Placement-classes/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/karthikeya1151/Placement-classes/tree/master/0202-happy-number) |
+| [0433-minimum-genetic-mutation](https://github.com/karthikeya1151/Placement-classes/tree/master/0433-minimum-genetic-mutation) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthikeya1151/Placement-classes/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/karthikeya1151/Placement-classes/tree/master/0433-minimum-genetic-mutation) |
 ## Binary Tree
 |  |
 | ------- |
