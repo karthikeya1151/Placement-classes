@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/karthikeya1151/Placement-classes/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/karthikeya1151/Placement-classes/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/karthikeya1151/Placement-classes/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/karthikeya1151/Placement-classes/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/karthikeya1151/Placement-classes/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/karthikeya1151/Placement-classes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
