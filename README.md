@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/karthikeya1151/Placement-classes/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/karthikeya1151/Placement-classes/tree/master/0155-min-stack) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthikeya1151/Placement-classes/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/karthikeya1151/Placement-classes/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
