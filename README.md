@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/karthikeya1151/Placement-classes/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/karthikeya1151/Placement-classes/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/karthikeya1151/Placement-classes/tree/master/0232-implement-queue-using-stacks) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/karthikeya1151/Placement-classes/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/karthikeya1151/Placement-classes/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/karthikeya1151/Placement-classes/tree/master/0187-repeated-dna-sequences) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/karthikeya1151/Placement-classes/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
