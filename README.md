@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/karthikeya1151/Placement-classes/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/karthikeya1151/Placement-classes/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karthikeya1151/Placement-classes/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/karthikeya1151/Placement-classes/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karthikeya1151/Placement-classes/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Database
 |  |
 | ------- |
@@ -139,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/karthikeya1151/Placement-classes/tree/master/0258-add-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
