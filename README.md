@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/karthikeya1151/Placement-classes/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karthikeya1151/Placement-classes/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karthikeya1151/Placement-classes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/karthikeya1151/Placement-classes/tree/master/0540-single-element-in-a-sorted-array) |
 ## Database
 |  |
 | ------- |
