@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/karthikeya1151/Placement-classes/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/karthikeya1151/Placement-classes/tree/master/0187-repeated-dna-sequences) |
 | [0433-minimum-genetic-mutation](https://github.com/karthikeya1151/Placement-classes/tree/master/0433-minimum-genetic-mutation) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/karthikeya1151/Placement-classes/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthikeya1151/Placement-classes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/karthikeya1151/Placement-classes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthikeya1151/Placement-classes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/karthikeya1151/Placement-classes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/karthikeya1151/Placement-classes/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Simulation
 |  |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/karthikeya1151/Placement-classes/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/karthikeya1151/Placement-classes/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/karthikeya1151/Placement-classes/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
