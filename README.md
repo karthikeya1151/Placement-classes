@@ -93,16 +93,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthikeya1151/Placement-classes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthikeya1151/Placement-classes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/karthikeya1151/Placement-classes/tree/master/0433-minimum-genetic-mutation) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthikeya1151/Placement-classes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/karthikeya1151/Placement-classes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Simulation
 |  |
 | ------- |
